@@ -17,3 +17,4 @@ print(Dict)
 #delete value from dict
 del(Dict['A'])
 print(Dict)
+print(Dict['C'])
